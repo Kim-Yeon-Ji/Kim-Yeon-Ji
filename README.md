@@ -12,7 +12,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2> 
       <div align= "center">  <h4> About me 👇 </h4> </div> 
     <div align= "center"> <a href=mailto:gimyeonji52@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:"> </a>
-         <a href=https://stirring-talk-5c8.notion.site/ORB-446fda8035cd45b6ada3cea44b026e8a><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a><a href=www.linkedin.com/in/yeonji-kim-5109372a9/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a><a href=https://github.com/Kim-Yeon-Ji/Kim-Yeon-Ji/blob/main/Kim_YeonJi_CV.pdf><img src="https://img.shields.io/badge/CV-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> </a>
+         <a href=https://stirring-talk-5c8.notion.site/ORB-446fda8035cd45b6ada3cea44b026e8a><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a><a href=www.linkedin.com/in/yeonji-kim-2002101101038817783><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a><a href=https://github.com/Kim-Yeon-Ji/Kim-Yeon-Ji/blob/main/Kim_YeonJi_CV.pdf><img src="https://img.shields.io/badge/CV-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
